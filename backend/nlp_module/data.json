@@ -1,0 +1,28 @@
+[
+  { "item": "banana peel", "category": "Organic" },
+  { "item": "apple core", "category": "Organic" },
+  { "item": "vegetable scraps", "category": "Organic" },
+  { "item": "food leftovers", "category": "Organic" },
+  { "item": "tea leaves", "category": "Organic" },
+  { "item": "eggshell", "category": "Organic" },
+  { "item": "dry leaves", "category": "Organic" },
+  { "item": "paper napkin with food", "category": "Organic" },
+
+  { "item": "plastic bottle", "category": "Plastic" },
+  { "item": "milk packet", "category": "Plastic" },
+  { "item": "water bottle cap", "category": "Plastic" },
+  { "item": "snack wrapper", "category": "Plastic" },
+  { "item": "plastic container", "category": "Plastic" },
+  { "item": "carry bag", "category": "Plastic" },
+  { "item": "toothpaste tube", "category": "Plastic" },
+  { "item": "shampoo bottle", "category": "Plastic" },
+
+  { "item": "aluminum can", "category": "Metal" },
+  { "item": "iron scrap", "category": "Metal" },
+  { "item": "steel spoon", "category": "Metal" },
+  { "item": "tin can", "category": "Metal" },
+  { "item": "copper wire", "category": "Metal" },
+  { "item": "metal lid", "category": "Metal" },
+  { "item": "old keys", "category": "Metal" },
+  { "item": "rusted nail", "category": "Metal" }
+]
